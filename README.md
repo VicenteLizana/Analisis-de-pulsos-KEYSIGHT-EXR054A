@@ -7,9 +7,16 @@ Para un analisis de datos completo, el código presenta las siguientes capacidad
 * Visualización de pulsos
 * Integración de pulsos
 * Generación de histogramas
-
+* Calcular la distancia de atenuación de la luz en algún medio
+* Comparación de cargas
 
 
 ## Librerias utilizadas:
 
 * Numpy
+* Pandas
+* Plotly
+* Math
+* Matplotly
+* CSV
+* Scipy  
